@@ -3,4 +3,4 @@ title: 'Thank you'
 permalink: '/thank-you/index.html'
 ---
 
-This is your thank you page where if someone fills in your contact form, they will be directed to. Make sure you add a nice message 🙂
+Agradeço sua mensagem e espero que Hermes a leve até mim sem a soterrar em outros emails.
