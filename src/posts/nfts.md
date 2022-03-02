@@ -8,7 +8,7 @@ tags:
   - PT
 ---
 
-Se você está lendo este artigo, ou você chegou até aqui sozinho ou eu, E. Spangler, te mandei este link para ler porque você está prestes a começar uma discussão em minhas proximidades sobre NFTs, me convencer de que cryptoarte é legal ou coisa do tipo. Primeiramente tenho que dizer, caso você não saiba, que [**sou artista**](https://insagram.com/iceberic) e fiz faculdade de ciências da computação na UFMG e escolhi **criptografia** como área pra me especializar e talvez futuramente fazer um doutorado. 
+Se você está lendo este artigo, ou você chegou até aqui sozinho ou eu, E. Spangler, te mandei este link para ler porque você está prestes a começar uma discussão em minhas proximidades sobre NFTs, me convencer de que cryptoarte é legal ou coisa do tipo. Primeiramente tenho que dizer, caso você não saiba, que **sou artista** e fiz faculdade de ciências da computação na UFMG e escolhi **criptografia** como área pra me especializar e talvez futuramente fazer um doutorado. 
 
 Então, NTF pegou as duas coisas que eu mais me dediquei na vida e as transformou em uma monstruosidade a qual eu tenho muitos protestos contra e estou 
 1. careca de ouvir sobre, 
